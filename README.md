@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, I'm Fernanda</h1>
+# Hi 👋, I'm Fernanda
 - 🌱 I’m currently learning **Frontend Development**
