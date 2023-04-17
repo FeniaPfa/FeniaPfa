@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ,I'm Fernanda
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Fernanda
 ================================================================================================================================
 
 Frontend Developer
@@ -27,8 +27,8 @@ Frontend Developer
 </p>
 
 
-### Socials
+### Links
 
-<p align="left"> <a href="https://www.github.com/feniapfa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fernanda-aguilar-p/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-<a href="http://www.github.com/feniapfa"><img src="https://github-readme-stats.vercel.app/api?username=feniapfa&show_icons=true&hide=stars,contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="feniapfa's GitHub stats" /></a>
+[![portafolio](https://img.shields.io/badge/-Portfolio-lightblue?style=for-the-badge)](https://feniapfa.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-aguilar-p/)
+[![github](https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://github.com/FeniaPfa)
