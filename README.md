@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in Villa Alemana, Chile
-* 🖥️  See my portfolio at [feniapfa.dev](http://https://feniapfa.dev/)
+* 🖥️  See my portfolio at [feniapfa.dev](http://feniapfa.dev/)
 * 🧠  I'm learning React.js
 
 ### Skills
