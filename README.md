@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in Chile
 * 🖥️  See my portfolio at [feniapfa.dev](http://feniapfa.dev/)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning Typescript
 
 ### Skills
 
