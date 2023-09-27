@@ -10,7 +10,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### 🛠 Technologies
 
-<img src="https://skillicons.dev/icons?i=git,html,css,js,sass,bootstrap,tailwind,react,vite,materialui,redux,firebase,ps,ai" />
+<img src="https://skillicons.dev/icons?i=git,html,css,js,sass,bootstrap,tailwind,react,vite,materialui,redux,firebase,ps,ai,figma" />
+<img src="https://skillicons.dev/icons?i=postman,nodejs,express,sequelize,postgres" />
 
 ### 🔗 Links
 
