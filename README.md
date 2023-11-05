@@ -6,11 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Chile
 * 📁  See my portfolio at [feniapfa.dev](http://feniapfa.dev/)
-* 🧠  I'm learning Typescript and Next.js
+* 🧠  I'm learning Nest.js
 
 ### 🛠 Technologies
 
-<img src="https://skillicons.dev/icons?i=git,html,css,js,ts,sass,bootstrap,tailwind,react,vite,materialui,redux,firebase" />
+<img src="https://skillicons.dev/icons?i=git,html,css,js,ts,sass,bootstrap,tailwind,react,next,vite,materialui,redux,firebase" />
 <img src="https://skillicons.dev/icons?i=postman,nodejs,express,sequelize,postgres" />
 <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
 
